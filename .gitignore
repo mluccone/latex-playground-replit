@@ -1,2 +1,3 @@
-build/*
-nohup.out
+build/
+*.out
+*.log
